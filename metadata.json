@@ -1,0 +1,7 @@
+{
+  "name": "Bangla Bondhu AI",
+  "description": "A conversational daily life assistant in Bengali using Gemini Live API",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
